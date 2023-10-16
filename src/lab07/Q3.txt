@@ -1,0 +1,4 @@
+Write the statements that replace each line of a text file with its reverse and save it to
+a new text file name reverse.txt.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+zyxwvutsrqponmlkjihgfedcba
